@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Solutions for the challenges proposed in Advent of Code 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node --verbose ."
+  },
+  "keywords": [
+    "advent of code 2017",
+    "challenge",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Sara Hernández <sara.her.su@gmail.com>",
+  "private": true,
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
